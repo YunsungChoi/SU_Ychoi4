@@ -1,0 +1,1 @@
+LOAD DATA INPATH '/loyalty_data.txt' INTO TABLE loyalty_program;
